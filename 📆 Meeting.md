@@ -2,7 +2,5 @@ Project hashtag
 # People
 - 
 - 
-- 
 # Notes
-- 
 - 
