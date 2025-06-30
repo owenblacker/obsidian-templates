@@ -11,5 +11,6 @@ Job title, project
 - 📯 — Suppliers not integrated into govt dept
 - 🌀 — Different central govt dept
 - 💠 — Local govt
+- 🏛️ — External subject-matter experts
 - ☢ — Warning
 - ‡ — Note that the user has a number in their email address, as well as their name
