@@ -1,4 +1,4 @@
-#People (Grade, Contractor?, Supplier cº, Project, Location) #NotMet 
+#People (Grade, Contractor?, Supplier cº, Project, Location) #NotMet   
 Job title, project
 # Reporting tree
 - …
